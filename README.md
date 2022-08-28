@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alessioacella - :it: - 26 - 💻 Developer / Software Engineer / Designer - 🎹 Musician - Photographer
+- 👋 Hi, I’m @alessioacella - :it: - 27 - 💻 Developer / Software Engineer / Designer - 🎹 Musician - Photographer
 - 👀 I’m interested in
   - 💻 Web/mobile Development (Vue.js, Vue3, NodeJs, ExpressJS, Javascript, Typescript, Lumen, Laravel)
   - :pencil: Web/mobile UI/XD Design (Figma, Illustrator, Photoshop, Tailwind & Scss)
