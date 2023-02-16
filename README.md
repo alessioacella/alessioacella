@@ -4,7 +4,7 @@
   - :pencil: Web/mobile UI/XD Design (Figma, Illustrator, Photoshop, Tailwind & Scss)
   - :boom: AI/Machine Learning (Js, Python)
   - Yarn addicted.
-- 🌱 I’m currently learning Micro Services Architectures
+- 🌱 In love with Micro Services Architectures
 - 📫 How to reach me:
   - :link: https://alessioacella.com
   - ✉️ alessioacella@gmail.com
